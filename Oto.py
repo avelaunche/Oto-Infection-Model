@@ -158,10 +158,6 @@ plt.plot(cycle_number, infected_old_eseals, label = 'infected old')
 
 plt.show()
 
-#annotate
-#write a summary
-#
-
 #break the time down into months (later)
 
 
